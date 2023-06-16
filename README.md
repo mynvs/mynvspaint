@@ -1,11 +1,15 @@
 # mynvspaint
 
-1. install python:
+1. Install Python 3.x:
 	- https://www.python.org/downloads/
-	- check "Add Python 3.x to PATH" when you install python.
+	- check "Add Python 3.x to PATH" when you install Python.
 
-2. verify that pip is working:
+2. Verify that pip is working:
 	`pip --version`
 
-3. install the required dependencies:
+3. Download mynvspaint:
+	run `git clone https://github.com/rohancurran/mynvspaint.git`
+	or download the .zip file directly.
+
+4. Install the required dependencies:
 	`pip install -r requirements`

@@ -8,7 +8,7 @@
 	- `pip --version`
 
 3. download mynvspaint:
-	- either run `git clone https://github.com/rohancurran/mynvspaint.git`
+	- either run `git clone https://github.com/mynvs/mynvspaint.git`
 	or download the .zip file directly.
 
 4. install the required python libraries:

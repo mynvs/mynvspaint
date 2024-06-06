@@ -1,15 +1,22 @@
 # mynvspaint
 
-1. install python 3.x:
-	- download url: https://www.python.org/downloads/
-	- check the "Add Python 3.x to PATH" option when you install python.
+1. install python:
+	- https://www.python.org/downloads/
+	- check "Add Python 3.x to PATH" when you install python.
 
-2. verify that pip is working:
-	- `pip --version`
+2. clone github repository:
+   	- run \``git clone https://github.com/mynvs/mynvspaint`\`
+   	- or download .zip file
 
-3. download mynvspaint:
-	- either run `git clone https://github.com/mynvs/mynvspaint.git`
-	or download the .zip file directly.
+3. verify that python is working:
+	- run \``python`\`
 
-4. install the required python libraries:
-	- `pip install -r requirements`
+5. verify that pip is working:
+	- run \``pip --version`\`
+
+7. install required libraries:
+   	- open a cmd terminal in the main directory
+	- run \``pip install -r requirements`\`
+
+# itch.io page:
+## https://mynvs.itch.io/mynvspaint
